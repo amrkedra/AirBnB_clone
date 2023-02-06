@@ -4,7 +4,7 @@
 ![enter image description here](https://i.imgur.com/44u0pXG.png)
                  Welcome to the AirBnB clone project! - The Console 
 
-This is the first part of a project for Holberton School: AirBnB clone - The console. First step: Write a command interpreter to manage the AirBnB objects.
+This is the first part of a project for ALX: AirBnB clone - The console. First step: Write a command interpreter to manage the AirBnB objects.
 
 ## Description Command Interpreter
 The Command Interpreter is used to manage the whole application's functionality from the command line, such as:
